@@ -1,8 +1,8 @@
 
-# MSc Project - Assessing the generalisability of sarcasm detection across data collection strategies
+# Assessing the generalisability of sarcasm detection across data collection strategies using BERT-based Deep Learning Methogologies
 
 Overview:
-This project aims to tackle the intricate challenge of detecting sarcasm in social media linguistics. Recognising the potential pitfalls in the field due to varied language use and inconsistent data collection methods, this research uses a unique BERT-based training approach  and blind testing methodologies to enhance sarcasm detection's generalisability across diverse data collection strategies.
+This project aims to tackle the intricate challenge of detecting sarcasm in social media linguistics. Recognising the potential pitfalls in the field due to varied language use and inconsistent data collection methods, this research uses a unique BERT-based training approach and blind testing methodologies to enhance sarcasm detection's generalisability across diverse data collection strategies.
 
 ## Contents:
 Supplementary Documents- Datasets: Contains links to access/download all datasets used in the study. (Reddit, Twitter, Headlines and English Sarcasm)
